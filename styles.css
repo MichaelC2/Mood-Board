@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+.board {
+    color: blue;
+}
+
+img {
+    height: 300px;
+    width: 200px;
+}
